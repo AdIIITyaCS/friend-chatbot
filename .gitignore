@@ -1,0 +1,71 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Logs and data
+*.log
+*.csv
+*.tsv
+*.dat
+*.sqlite
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Pylint
+.pylint.d/
+
+# Pyre type checker
+.pyre/
+
+# IDEs
+.idea/
+*.swp
+
+# Local settings
+*.local
+
+# Temp files
+*.tmp
+*.temp
